@@ -2,7 +2,7 @@
     {
       "id": 1,
       "titulo": "Cafe Nicaragua",
-      "imagen": "../images/product-1.png",
+      "imagen": "./images/product-1.png",
       "precio": " 999"
     },
   
