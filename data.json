@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "titulo": "Cafe Nicaragua",
+      "imagen": "../images/product-1.png",
+      "precio": " 999"
+    },
+  
+    {
+      "id": 2,
+      "titulo": "Cafe Columbia",
+      "imagen": "./images/product-2.png",
+      "precio": " 799"
+    },
+    {
+      "id": 3,
+      "titulo": "Cafe Peru",
+      "imagen": "./images/product-3.png",
+      "precio": " 650"
+    },
+    {
+      "id": 4,
+      "titulo": "Cafe Brasil",
+      "imagen": "./images/product-4.png",
+      "precio": " 750"
+    },
+    {
+      "id": 5,
+      "titulo": "Cafe Bird",
+      "imagen": "./images/product-5.png",
+      "precio": " 899"
+    },
+    {
+      "id": 6,
+      "titulo": "Cafe Never Settle",
+      "imagen": "./images/product-6.png",
+      "precio": " 800"
+    },
+    {
+      "id": 7,
+      "titulo": "Cafe Blue Bottle",
+      "imagen": "./images/product-7.png",
+      "precio": " 850"
+    },
+    {
+      "id": 8,
+      "titulo": "Cafe Peru & Ethiopian",
+      "imagen": "./images/product-8.png",
+      "precio": " 750"
+    }
+  ]
